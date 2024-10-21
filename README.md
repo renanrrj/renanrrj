@@ -29,5 +29,11 @@
   <a href = "mailto:renanrrj@icloud.com"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" target="_blank"></a>     
 </div>
 
- ![Snake animation](https://github.com/renanrrj/renanrrj/blob/output/github-contribution-grid-snake.svg)
+
+
+ <picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/renanrrj/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/renanrrj/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/renanrrj/renanrrj/output/github-contribution-grid-snake.svg">
+</picture>
   
