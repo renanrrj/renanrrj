@@ -4,11 +4,7 @@
 - 🌱 Formado em Sistemas de Informação.
 - 📫 Contate-me no email: renanrrj@icloud.com.
 
-<div>
-  <a href="https://github.com/renanrrj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanrrj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanrrj&layout=compact&langs_count=16&theme=dark"/>
-</div>
+
   
   <div style="display: inline_block"><br> <!--Ícones das linguagens-->
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
